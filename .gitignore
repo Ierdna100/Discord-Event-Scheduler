@@ -12,3 +12,9 @@ logs/
 
 .env
 .env.json
+
+
+# REMOVE LATER, TEMPORARY
+.drone.yml
+Dockerfile
+*.bat
