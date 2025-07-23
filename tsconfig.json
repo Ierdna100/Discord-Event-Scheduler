@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "target": "ES2021",
+        "module": "ESNext",
+        "moduleResolution": "Node",
+        "checkJs": true,
+        "outDir": "bin/",
+        "esModuleInterop": true,
+        "forceConsistentCasingInFileNames": true,
+        "strict": true,
+        "strictPropertyInitialization": false,
+        "noImplicitAny": true,
+        "noImplicitThis": true,
+        "skipLibCheck": true
+    },
+    "include": ["./src/"],
+    "exclude": ["./bkp/"]
+}
