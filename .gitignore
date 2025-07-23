@@ -1,0 +1,14 @@
+build/
+bin/
+env/
+bkp/
+node_modules/
+testing/
+cache/
+temp/
+.VSCodeCounter/
+testServer/
+logs/
+
+.env
+.env.json
